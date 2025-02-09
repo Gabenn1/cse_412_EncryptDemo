@@ -1,1 +1,1 @@
-# cse_412_EncryptDemo
+## Testing hashing before sql db entry
